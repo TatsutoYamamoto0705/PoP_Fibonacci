@@ -1,1 +1,2 @@
-from .fibonacci import fib, itself
+from .fibonacci import fib
+from .itself import itself
